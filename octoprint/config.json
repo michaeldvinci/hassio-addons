@@ -23,7 +23,7 @@
         "mjpg_input": "input_uvc.so -n",
         "mjpg_output": "output_http.so -w /www_mjpg",
         "request_rescue": false,
-        "add_build_packages": false
+        "add_build_packages": true
     },
     "schema": {
         "mjpg_input": "str",
